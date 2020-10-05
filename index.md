@@ -9,14 +9,12 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# High Level Description
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+  
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Scan IT is an application and source code **manifest** and associated **tools** to orchestrate and simplify important phases of the security scanning lifeCycle management of Applications.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+*The manifest*: That describes  important pieces of information that are normally required by most SAST and/or DAST tools to scan your code or application for potential vulnerabilities.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+*The Tools*: To both facilitate the generation of the manifest and automate consumption and onboard of your apps into your commercial or open source scanning tools. 
