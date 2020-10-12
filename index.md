@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Scan IT
-tags: example-tag
+tags: scan_it
 level: 1
 type: 
 pitch: A very brief, one-line description of your project
