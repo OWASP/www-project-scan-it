@@ -1,9 +1,9 @@
 ---
-title: The Problem
+title: Problem
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: scan_it
 ---
 
 ##  Problem Definition
