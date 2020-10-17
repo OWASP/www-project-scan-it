@@ -1,13 +1,12 @@
 ### Scan IT Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* File Format Specs
+* Examples to get you going!
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Tools
+* 
+
+### How to Help
+* Coming soon...
 
 ### Code Repository
 * [repo](#)
