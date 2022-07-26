@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Scan IT
 tags: scan_it
-level: 1
+level: 2
 type: 
 pitch: A very brief, one-line description of your project
 
